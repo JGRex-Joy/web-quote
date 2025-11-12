@@ -1,3 +1,6 @@
+# Figma макет
+https://www.figma.com/design/xnna3LoHyxZ1dMTuzfCD87/web?node-id=46-3&p=f&t=2xxvB8yAMZcciSiV-0
+
 # Random Quote Generator
 
 Простое веб-приложение, которое позволяет получать случайные цитаты с автором нажатием кнопки.  
@@ -42,4 +45,5 @@
 │── script.js       # Логика приложения (загрузка цитат)
 └── README.md       # Описание проекта
 ```
+
 
